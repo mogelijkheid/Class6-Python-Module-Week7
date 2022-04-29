@@ -15,4 +15,3 @@ class Brand:
 brand1=Brand('Toshiba', 200)
 Product1=Product('computer',brand1,2006)
 
-Product1.price
